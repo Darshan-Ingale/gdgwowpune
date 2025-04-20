@@ -1,12 +1,12 @@
-# GDG Women of Pune (GDG WoW Pune)
+# GDG WoW Pune
 
 ![GDG WoW Pune Logo](https://developers.google.com/static/community/gdg/images/gdg-icon.svg)
 
 ## About Us
-Google Developer Group Women of Pune (GDG WoW Pune) is a community of developers, designers, and tech enthusiasts passionate about Google technologies. We focus on empowering women in technology through knowledge sharing, networking, and hands-on learning opportunities.
+Google Developer Group WoW Pune (GDG WoW Pune) is a community of developers, designers, and tech enthusiasts passionate about Google technologies. We focus on fostering an inclusive tech community through knowledge sharing, networking, and hands-on learning opportunities.
 
 ## Our Mission
-To create an inclusive environment that encourages women to learn, share, and grow in the tech industry through events, workshops, and mentorship programs.
+To create an inclusive environment that encourages everyone to learn, share, and grow in the tech industry through events, workshops, and mentorship programs.
 
 ## Activities
 - **Tech Talks**: Sessions on the latest Google technologies and industry trends
@@ -27,8 +27,8 @@ Stay tuned for our upcoming events! Check our social media channels for the late
 ## Past Events
 - Google I/O Extended
 - Flutter Study Jam
-- Women Techmakers
 - DevFest
+- Android Study Jam
 
 ## Code of Conduct
 We follow the [Google Developer Group Code of Conduct](https://developers.google.com/community-guidelines) to ensure a welcoming and inclusive environment for all participants.
@@ -41,4 +41,4 @@ If you have any questions or would like to collaborate, please reach out to us a
 
 ---
 
-Made with ❤️ by GDG Women of Pune
+Made with ❤️ by GDG WoW Pune
